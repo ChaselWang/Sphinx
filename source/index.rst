@@ -34,6 +34,7 @@ Welcome to Diary's documentation!
    410人迹
    2403随笔
    2404随笔
+   2405随笔
    时政
    012申论
    013公基
