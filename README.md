@@ -25,3 +25,6 @@ sphinx-autobuild source build/html
  git push -u origin main
 ```
 
+
+git pull origin Sphinx
+
