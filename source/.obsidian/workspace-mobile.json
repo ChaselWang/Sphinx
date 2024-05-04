@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资源网站.md",
+                "file": "管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "资源网站.md",
+            "file": "管理.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "资源网站.md",
+            "file": "管理.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "资源网站.md"
+            "file": "管理.md"
           }
         }
       }
@@ -133,9 +133,9 @@
   },
   "active": "c9a03d2b7613cde6",
   "lastOpenFiles": [
+    "资源网站.md",
     "时间管理.md",
     "中国特色社会主义理论体系.md",
-    "资源网站.md",
     "英语二.md",
     "24上时政.md",
     "index.rst1725701776161628",
