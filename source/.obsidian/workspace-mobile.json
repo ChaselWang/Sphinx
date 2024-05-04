@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国特色社会主义理论体系.md",
+                "file": "资源网站.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#200管理",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "中国特色社会主义理论体系.md",
+            "file": "资源网站.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "中国特色社会主义理论体系.md",
+            "file": "资源网站.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "中国特色社会主义理论体系.md"
+            "file": "资源网站.md"
           }
         }
       }
@@ -133,32 +133,33 @@
   },
   "active": "c9a03d2b7613cde6",
   "lastOpenFiles": [
-    "资源网站.md",
-    "中国特色社会主义理论体系.md",
-    "英语二.md",
-    "时政.md",
     "时间管理.md",
-    "日志.md",
+    "中国特色社会主义理论体系.md",
+    "资源网站.md",
+    "英语二.md",
+    "24上时政.md",
+    "index.rst1725701776161628",
+    "时政.md",
     "马克思主义哲学.md",
     "科技.md",
-    "经济常识.md",
+    "经济.md",
     "管理.md",
-    "个人简历.md",
     "公文.md",
     "个人网站开发计划.md",
-    "法律常识.md",
+    "个人简历.md",
+    "法律.md",
     "党史.md",
     "2405随笔.md",
-    "2404随笔.md",
     "2403随笔.md",
+    "2404随笔.md",
+    "999随笔.md",
     "410人迹.md",
-    "24上时政.md",
-    "24上日志.md",
-    "23下日志.md",
-    "23上日志.md",
-    "22下日志.md",
-    "22上日志.md",
-    "21下日志.md",
+    "21上日志.md",
+    "19-25月档案.md",
+    "index.rst1725106767965824",
+    "013公基.md",
+    "012申论.md",
+    "日志.md",
     "未命名"
   ]
 }
